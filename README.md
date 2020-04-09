@@ -7,21 +7,21 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/gobarber">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/emersonefm/projetogobarber">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasGcf/gobarber">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/emersonefm/projetogobarber">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/gobarber">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/emersonefm/gobarber">
   
   <a href="https://github.com/EliasGcf/gobarber/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/gobarber">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/emersonefm/projetogobarber">
   </a>
   
   <a href="https://github.com/EliasGcf/gobarber/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/emersonefm/projetogobarber">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber">
+  <img alt="GitHub" src="https://img.shields.io/github/license/emersonefm/projetogobarber">
 </p>
 
 <p align="center">
