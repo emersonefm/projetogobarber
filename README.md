@@ -13,11 +13,11 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/emersonefm/gobarber">
   
-  <a href="https://github.com/EliasGcf/gobarber/commits/master">
+  <a href="https://github.com/emersonefm/projetogobarber/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/emersonefm/projetogobarber">
   </a>
   
-  <a href="https://github.com/EliasGcf/gobarber/issues">
+  <a href="https://github.com/emersonefm/projetogobarber/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/emersonefm/projetogobarber">
   </a>
   
